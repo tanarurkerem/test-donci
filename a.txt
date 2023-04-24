@@ -1,6 +1,6 @@
 hello ez egy módosítás
 
-mindketrepo AB ez is egy sor amit majd módosítok hozzáadom ezt
+vscode masoikrepo mindketrepo AB ez is egy sor amit majd módosítok hozzáadom ezt
 
 
 
