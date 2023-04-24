@@ -1,1 +1,9 @@
 hello ez egy módosítás
+
+ez is egy sor amit majd módosítok
+
+
+
+ez egy olyan sor lesz amit törlök
+
+és ez után hozzá fogok adni egy sort
