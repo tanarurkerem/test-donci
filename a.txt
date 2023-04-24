@@ -1,6 +1,6 @@
 hello ez egy módosítás
 
-repo AB ez is egy sor amit majd módosítok hozzáadom ezt
+mindketrepo AB ez is egy sor amit majd módosítok hozzáadom ezt
 
 
 
