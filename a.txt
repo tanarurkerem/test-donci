@@ -1,6 +1,6 @@
 hello ez egy módosítás
 
-ez is egy sor amit majd módosítok hozzáadom ezt
+B ez is egy sor amit majd módosítok hozzáadom ezt
 
 
 
