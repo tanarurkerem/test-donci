@@ -1,6 +1,6 @@
 hello ez egy módosítás
 
-AB ez is egy sor amit majd módosítok hozzáadom ezt
+masikrepo AB ez is egy sor amit majd módosítok hozzáadom ezt
 
 
 
